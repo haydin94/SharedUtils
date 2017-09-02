@@ -23,6 +23,10 @@ public class Requests {
             public final static String VIEW_ALLJOKES = "view_allJokes";
             public final static String VIEW_JOKEVIEW = "view_joke";
             public final static String VIEW_USERVIEW = "view_user";
+            public final static String VIEW_LUSERVIEW = "view_luser";
+            public final static String VIEW_FAV = "view_fav";
+            public final static String VIEW_MYCOMMENTS = "view_myComments";
+            
             public final static String SECTION_COMMENT = "section_comment";
 
             public final static String WITZ_BETWEEN = "witzBetween";
@@ -34,12 +38,14 @@ public class Requests {
             public final static String DELETEPROFIL = "deleteProfil";
             public final static String WRITEJOKE = "writeJoke";
             public final static String DELETEJOKE = "deleteJoke";
-            public final static String WRITECOMMENT = "writeComment";
             public final static String RATEJOKE = "rateJoke";
+            public final static String WRITECOMMENT = "writeComment";
             public final static String DELETECOMMENT = "deleteComment";
             public final static String RATECOMMENT = "rateComment";
             public final static String MAKEFAVOURITE = "makeFavourite";
+            public final static String REVERSEFAVOURITE = "reverseFavourite";
             public final static String ADDTOFAVOURITE = "addToFavourite";
+            public final static String REMOVEFAVOURITE = "removeFavourite";
             
         }
     }
