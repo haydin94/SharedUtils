@@ -26,7 +26,9 @@ public class Requests {
             public final static String VIEW_LUSERVIEW = "view_luser";
             public final static String VIEW_FAV = "view_fav";
             public final static String VIEW_MYCOMMENTS = "view_myComments";
-            
+            public final static String VIEW_FOLLOWER = "view_follower";
+            public final static String VIEW_FOLLOWS = "view_follows";
+            public final static String SECTION_JOKETC = "section_jokeTC";
             public final static String SECTION_COMMENT = "section_comment";
 
             public final static String WITZ_BETWEEN = "witzBetween";
